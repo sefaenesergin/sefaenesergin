@@ -1,5 +1,7 @@
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=sefaenesergin&show_icons=true&theme=dracula">
+
 <h1 align="center">Hi 👋, I'm Sefa</h1>
-<h3 align="center">A developer from Turkey</h3>
+<h3 align="center">A developer from world:)</h3>
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=sefaenesergin&label=Profile%20views&color=0e75b6&style=flat" alt="sefaenesergin" /> </p>
 
