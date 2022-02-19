@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sefa</h1>
 <h3 align="center">A developer from Turkey</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sefaenesergin&label=Profile%20views&color=0e75b6&style=flat" alt="sefaenesergin" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=sefaenesergin&label=Profile%20views&color=0e75b6&style=flat" alt="sefaenesergin" /> </p>
 
 - 💬 Ask me about **shell script, linux, python**
 
