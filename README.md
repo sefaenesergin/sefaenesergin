@@ -6,16 +6,16 @@
 
 - 💬 Ask me about **shell script, linux, python**
 
-- 📫 How to reach me **sefaenesergin@gmail.com**
+[![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sefa-enes-ergin)
+[![Mail Badge](https://img.shields.io/badge/email-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:furkanportakalx@gmail.com)](mailto:sefaenesergin@gmail.com)
 
-<h3 align="left">Connect with me on LinkedIn:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/sefa-enes-ergin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sefa-enes-ergin" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
+<h3 align="left">Which Programming Languages I Use:</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sefaenesergin&show_icons=true&locale=en&layout=compact" alt="sefaenesergin" /></p>
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=sefaenesergin&label=Profile%20views&color=0e75b6&style=flat" alt="sefaenesergin" /> </p>
+## � Some of my projects
+
+- [wGet app with shell script and zenity](https://github.com/sefaenesergin/shell-zenity-wgetApp-) - **Recommended** ✨
+- [Emotion Analysis with Pure python](https://github.com/sefaenesergin/pure-emotion-analysis-with-python) - **Recommended** ✨
+- [Bank GUI App with Java](https://github.com/sefaenesergin/bankGUIappWithJava) 
+- 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sefaenesergin&label=Profile%20views&color=0e75b6&style=flat" alt="sefaenesergin" /> </p>
