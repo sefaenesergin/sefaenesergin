@@ -16,4 +16,3 @@
 ## Contact Me!
 
 [![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sefa-enes-ergin)
-[![Mail Badge](https://img.shields.io/badge/email-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:sefaenesergin@gmail.com)](mailto:sefaenesergin@gmail.com)
