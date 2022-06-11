@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Sefa</h1>
-<h3 align="left">A developer from Milky Way Galaxy:)</h3>
+<h3 align="left">a developer and motorcycle rider</h3>
 
 
 ## ♣️  Some of my projects ♣️ 
