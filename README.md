@@ -10,7 +10,9 @@
 - [Bank GUI App with Java](https://github.com/sefaenesergin/bankGUIappWithJava) 
 
 <h3 align="left">Which Programming Languages I Use:</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sefaenesergin&show_icons=true&locale=en&layout=compact" alt="sefaenesergin" /></p>
+
+[![Which Programming Languages I Use](https://github-readme-stats.vercel.app/api/top-langs/?username=sefaenesergin&layout=compact)](https://github.com/sefaenesergin/github-readme-stats)
+
 
 
 ## Contact Me!
