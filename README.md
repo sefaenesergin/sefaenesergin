@@ -1,6 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Sefa</h1>
 <h3 align="left">Full Stack Software Developer</h3>
+<h3 align="left">Currently working Angular and Nodejs</h3>
 
 
 ## ♣️  Some of my projects ♣️ 
