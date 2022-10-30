@@ -6,7 +6,7 @@
 
 ## ♣️  Some of my projects ♣️ 
 
-- [CRUD Web App Nodejs & RestApi & ExpressJS](https://github.com/sefaenesergin/pure-emotion-analysis-with-python) - **Recommended** ✨
+- [CRUD Web App Nodejs & RestApi & ExpressJS](https://github.com/sefaenesergin/crudWithNodejs) - **Recommended** ✨
 - [Emotion Analysis with Pure python](https://github.com/sefaenesergin/pure-emotion-analysis-with-python) - **Recommended** ✨
 - [Bank GUI App with Java](https://github.com/sefaenesergin/bankGUIappWithJava) 
 
