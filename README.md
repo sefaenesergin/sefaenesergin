@@ -6,7 +6,7 @@
 
 ## ♣️  Some of my projects ♣️ 
 
-- [wGet app with shell script and zenity](https://github.com/sefaenesergin/shell-zenity-wgetApp-) - **Recommended** ✨
+- [CRUD Web App Nodejs & RestApi & ExpressJS](https://github.com/sefaenesergin/pure-emotion-analysis-with-python) - **Recommended** ✨
 - [Emotion Analysis with Pure python](https://github.com/sefaenesergin/pure-emotion-analysis-with-python) - **Recommended** ✨
 - [Bank GUI App with Java](https://github.com/sefaenesergin/bankGUIappWithJava) 
 
