@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Sefa</h1>
-<h3 align="left">Full Stack Software Developer</h3>
-<h3 align="left">Currently working with Angular and Nodejs</h3>
+<h3 align="left">a Passionate Software Engineer</h3>
+<h3 align="left"> I am currently working on Angular and Nodejs. I will get my "Computer Science" degree 2023 summer.</h3>
 
 
 ## ♣️  Some of my projects ♣️ 
