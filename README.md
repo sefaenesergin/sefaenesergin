@@ -13,6 +13,7 @@
 - [CRUD Web App Nodejs & RestApi & ExpressJS](https://github.com/sefaenesergin/crudWithNodejs) - **Recommended** ✨
 - [Emotion Analysis with Pure python](https://github.com/sefaenesergin/pure-emotion-analysis-with-python) - **Recommended** ✨
 - [Bank GUI App with Java](https://github.com/sefaenesergin/bankGUIappWithJava) 
+- [code that deletes the repeats in each row, keeps the non-repeats and creates a new excel](https://github.com/sefaenesergin/find_diff_chars_in_each_line_excel)
 
 ## Contact Me!
 
