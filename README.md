@@ -5,7 +5,7 @@
 
 ## 📎  For Current CV 📎
 
-- [CV](https://github.com/sefaenesergin/CV) (https://github.com/sefaenesergin/CV) ✨
+- [CV](https://github.com/sefaenesergin/CV)  ✨
 
 
 ## 🎨  Some of my projects 🎨 
