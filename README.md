@@ -1,11 +1,11 @@
 
-<h1 align="center">Hi 👋, I'm Sefa</h1>
+<h1 align="center">Hi 👋, I'm Sefa Enes ERGİN</h1>
 <h3 align="left">a Passionate Software Engineer</h3>
 <h3 align="left"> I am currently working on Angular and Nodejs. I will get my "Computer Science" degree 2023 June.</h3>
 
 ## 📎  For Current CV 📎
 
-- [CV]((https://github.com/sefaenesergin/CV) ✨
+- [[CV]((https://github.com/sefaenesergin/CV)](https://github.com/sefaenesergin/CV) ✨
 
 
 ## 🎨  Some of my projects 🎨 
