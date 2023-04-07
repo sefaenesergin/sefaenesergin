@@ -1,10 +1,14 @@
 
 <h1 align="center">Hi 👋, I'm Sefa</h1>
 <h3 align="left">a Passionate Software Engineer</h3>
-<h3 align="left"> I am currently working on Angular and Nodejs. I will get my "Computer Science" degree 2023 summer.</h3>
+<h3 align="left"> I am currently working on Angular and Nodejs. I will get my "Computer Science" degree 2023 June.</h3>
+
+## 📎  For Current CV 📎
+
+- [CV]((https://github.com/sefaenesergin/CV) ✨
 
 
-## ♣️  Some of my projects ♣️ 
+## 🎨  Some of my projects 🎨 
 
 - [CRUD Web App Nodejs & RestApi & ExpressJS](https://github.com/sefaenesergin/crudWithNodejs) - **Recommended** ✨
 - [Emotion Analysis with Pure python](https://github.com/sefaenesergin/pure-emotion-analysis-with-python) - **Recommended** ✨
