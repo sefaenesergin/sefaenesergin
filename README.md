@@ -15,6 +15,7 @@
 - [Bash -wget Scripts](https://github.com/sefaenesergin/shell-zenity-wgetApp-) - **Recommended** ✨
 - [Bank GUI App with Java](https://github.com/sefaenesergin/bankGUIappWithJava) 
 - [code that deletes the repeats in each row, keeps the non-repeats and creates a new excel](https://github.com/sefaenesergin/find_diff_chars_in_each_line_excel)
+- [2D Game Powered by HTML5 and JS](https://github.com/sefaenesergin/sefaenesergin.github.io)
 
 ## Contact Me!
 
