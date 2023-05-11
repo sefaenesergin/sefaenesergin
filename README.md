@@ -1,6 +1,6 @@
 
 
-## 📎  For Current CV 📎
+## 📎 Current CV 📎
 
 - [CV](https://github.com/sefaenesergin/CV)  ✨
 
